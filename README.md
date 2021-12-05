@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Denux</h1>
 
-- 🔭 I’m currently working on [Slashy](https://github.com/DenuxPlays/Slashy)
+- 🔭 I’m currently working on the [DragonSharks Bot](https://discord.com/invite/dragonsharks)
 
 - 🌱 I’m currently learning **Java**
 
