@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Denux</h1>
 
-- 🔭 I’m currently working on the [Denu' TOML Parser](https://github.com/DenuxPlays/DTP)
+- 🔭 I’m currently working on the [Denux' TOML Parser](https://github.com/DenuxPlays/DTP)
 
 - 🌱 I’m currently learning **Java**
 
