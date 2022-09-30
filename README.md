@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 📫 How to reach me dev@denux.dev or -Denux#7095 on [Discord](https://discord.com/)**
+- 📫 How to reach me dev@denux.dev or -Denux#7095 on [Discord](https://discord.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
