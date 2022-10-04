@@ -25,3 +25,4 @@ jobs:
           plugin_habits_days: 30
           plugin_habits_from: 400
           plugin_lines: yes
+          plugin_isocalendar: yes
