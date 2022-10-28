@@ -220,8 +220,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="444.85596707818934" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="444.85596707818934" y="0" width="15.144032921810702" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="444.8663468128855" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="444.8663468128855" y="0" width="15.133653187114462" height="8" fill="#A97BFF"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
