@@ -40,7 +40,7 @@ jobs:
           # WakaTime
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          plugin_wakatime_url: https://wakapi.denux.dev/api
+          #plugin_wakatime_url: "https://wakapi.denux.dev/api"
           plugin_wakatime_days: 365
           plugin_wakatime_repositories_visibility: public
 
