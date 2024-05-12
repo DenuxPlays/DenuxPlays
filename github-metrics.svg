@@ -214,20 +214,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 8.14mb of code in 3517 edited files across 1107 commits</small>
+                <small>estimation from 8.14mb of code in 3524 edited files across 1108 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="222.0289481525165" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="222.0289481525165" y="0" width="219.40062333688337" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="441.42957148939985" y="0" width="7.176436504900813" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="448.6060079943007" y="0" width="3.361524051462924" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="451.9675320457636" y="0" width="2.7516312847894873" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="454.7191633305531" y="0" width="2.671482079837846" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="457.39064541039096" y="0" width="1.3355039120936223" height="8" fill="#ec915c"/>
-                    <rect mask="url(#languages-bar)" x="458.72614932248456" y="0" width="1.2738506775154363" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="221.47727635014712" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="221.47727635014712" y="0" width="219.9984367881344" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="441.47571313828155" y="0" width="7.158605327055803" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="448.63431846533734" y="0" width="3.3531717260224383" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="451.9874901913598" y="0" width="2.7447943502232204" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="454.73228454158306" y="0" width="2.664844290728611" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="457.3971288323117" y="0" width="1.3321856067267475" height="8" fill="#ec915c"/>
+                    <rect mask="url(#languages-bar)" x="458.72931443903843" y="0" width="1.2706855609616632" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -240,7 +240,7 @@
                             </div>
                             <small>
                                 <div>468 kB</div>
-                                <div>48.27%</div>
+                                <div>48.15%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -289,8 +289,8 @@
                                 Rust
                             </div>
                             <small>
-                                <div>462 kB</div>
-                                <div>47.7%</div>
+                                <div>465 kB</div>
+                                <div>47.83%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -344,7 +344,7 @@
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
                         <li>Has approximately 33.5 characters per line of code written</li>
-                        <li>Mostly pushes code around 10:00</li>
+                        <li>Mostly pushes code around 08:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
                 </div>
