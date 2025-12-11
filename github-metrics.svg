@@ -1443,8 +1443,8 @@
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">dyncloud</span>
-                                <div class="bar" style="width: 0.64%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">loco</span>
+                                <div class="bar" style="width: 1.024%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
@@ -1453,13 +1453,13 @@
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">school-db</span>
-                                <div class="bar" style="width: 0.36000000000000004%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">renovate-config</span>
+                                <div class="bar" style="width: 0.19199999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">renovate-config</span>
-                                <div class="bar" style="width: 0.19199999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">caddy</span>
+                                <div class="bar" style="width: 0.128%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
